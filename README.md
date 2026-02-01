@@ -10,7 +10,7 @@
 🧑‍💻 Software Engineering student  
 🎮 Gamer by night, coder by day  
 🌌 Into aesthetic & futuristic tech vibes  
-🐧 Linux user  
+🐧 MacOS user  
 ⚙️ I enjoy learning how things work by breaking them first  
 
 ---
